@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="adventures">Adventures</string>
+    <string name="food_and_drink">Food and Drink</string>
+    <string name="private_tours">Private Tours</string>
+    <string name="theme_parks">Theme Parks</string>
+
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+
+    <string name="adventures_one_name">LA in a Day Bicycle Adventure</string>
+    <string name="adventures_one_address">8250 Santa Monica Boulevard\nWest Hollywood 90069</string>
+    <string name="adventures_one_description">Hop on a bicycle and avoid the traffic as you see the best of Los Angeles. Take in the celebrity homes and movie filming locations, glide through posh Beverly Hills, and enjoy the ocean breezes of Santa Monica. Snap photos along the way of the many well-known neighborhoods and landmarks.</string>
+
+    <string name="adventures_two_name">Hollywood Hills Hike</string>
+    <string name="adventures_two_address">2700 N Vermont Ave\nLos Angeles 90046</string>
+    <string name="adventures_two_description">Explore Mount Hollywood, home to the iconic Hollywood Sign, for panormanic views you can only see by hiking the spectacular Santa Monica Mountain Range. On this hike, your expert trail guide leads you on an easygoing stroll to catch the warm sunshine or a glorious sunset over Tinseltown.</string>
+
+    <string name="adventures_three_name">Private Beverly Hills Segway Tour</string>
+    <string name="adventures_three_address">1080 South La Cienega Blvd.\nLos Angeles</string>
+    <string name="adventures_three_description">Embrace the innovation of the modern Segway and embark on a city safari like no other. Take to the streets of Beverly Hills as you zoom through bustling neighborhoods and luxurious avenues, including Rodeo Drive.</string>
+
+    <string name="adventures_four_name">Hollywood Bicycle Tour</string>
+    <string name="adventures_four_address">8250 Santa Monica Boulevard\nWest Hollywood 90069</string>
+    <string name="adventures_four_description">This is the Ultimate Hollywood Experience that leaves no sights unseen. Pedal your way to more than 20 of Tinseltown\'s hot spots as you glide through the streets of Hollywood on the original eco-friendly tour vehicle: the bicycle. An expert personal tour guide makes sure even the most novice riders have a unique cycling adventure.</string>
+
+    <string name="adventures_five_name">La Brea Tar Pits Segway Tour</string>
+    <string name="adventures_five_address">La Brea Tar Pits\nLos Angeles</string>
+    <string name="adventures_five_description">Explore a place of natural wonder on this easy and fun Segway tour that allows you to visit one of the most fascinating sites in the world. This adventure-on-wheels takes you through the mysterious La Brea Tar Pits, a unique historical exhibit.</string>
+
+    <string name="food_and_drink_one_name">Private Malibu Wine Tour</string>
+    <string name="food_and_drink_one_address">Malibu</string>
+    <string name="food_and_drink_one_description">Journey to the pristine wineries of Malibu and enjoy wine at up to 4 different vineyards and cellars. Then breathe in the fresh air and soak in the gorgeous sights as you savor a delectable picnic-style lunch with fine cheese and fresh fruits.</string>
+
+    <string name="food_and_drink_two_name">Champagne Brunch Cruise from Marina del Rey</string>
+    <string name="food_and_drink_two_address">13755 Fiji Way\nMarina del Rey</string>
+    <string name="food_and_drink_two_description">Step aboard a spacious yacht for a brunch cruise along the sunny shoreline of Marina del Rey. Listen to music, dine on a delicious spread of brunch dishes, and sip from a never-ending glass of champagne—the perfect day on the water!</string>
+
+    <string name="food_and_drink_three_name">Farmers Market Food and History Tour</string>
+    <string name="food_and_drink_three_address">6333 West 3rd Street\mLos Angeles 90036</string>
+    <string name="food_and_drink_three_description">Explore more than 100 restaurants, grocers, and tourist shops that showcase the best of Southern California produce at Los Angeles\' Original Farmers Market. Be a part of this remarkable food tour to uncover the flavors and delicacies prepared by local and international communities.</string>
+
+    <string name="food_and_drink_four_name">Starlight Dinner Cruise from Marina del Rey</string>
+    <string name="food_and_drink_four_address">13755 Fiji Way\nMarina del Rey</string>
+    <string name="food_and_drink_four_description">Set sail for a spectacular evening under the stars, enjoying a delectable 4-course meal and a night of DJ-spun tracks and dancing on the outdoor deck of an elegant yacht. Sip champagne and take in the sparkling city lights and waterfront scenery on this dreamy SoCal cruise.</string>
+
+    <string name="food_and_drink_five_name">Small-Group Sips of Old Hollywood Tour</string>
+    <string name="food_and_drink_five_address">6801 Hollywood Boulevard\nHollywood 90028</string>
+    <string name="food_and_drink_five_description">Journey inside the hidden history of Old Hollywood on this tour of the most famous—and infamous—bars, lounges, and restaurants along Hollywood Boulevard. While neon signs of every color and shape light up the night, sip craft cocktails and explore the former haunts of the silver screen elite.</string>
+
+    <string name="private_tours_one_name">Private Ultimate Hollywood Tour</string>
+    <string name="private_tours_one_address">1080 South La Cienega Blvd. #108\nLos Angeles</string>
+    <string name="private_tours_one_description">Immerse yourself in the glitz and glamour of Hollywood and Beverly Hills on an all-star private tour to some of Tinseltown\'s most celebrated sites. Cruise by illustrious theaters, snap photos of famous buildings, and keep your eyes out for celebrities visiting the area.</string>
+
+    <string name="private_tours_two_name">Private Coastal Tour</string>
+    <string name="private_tours_two_address">Los Angeles</string>
+    <string name="private_tours_two_description">Follow an expert guide along the famous beaches of the California coast. See the extravagant amusement park at Santa Monica Pier, the offbeat oddness on the Boardwalk at Venice Beach, the bodybuilders at Muscle Beach, and recognizable celebrity homes in the hills of Malibu.</string>
+
+    <string name="private_tours_three_name">Private Romantic Sunset Helicopter Tour</string>
+    <string name="private_tours_three_address">10750 Sherman Way\nBurbank 91505</string>
+    <string name="private_tours_three_description">As the sun dips below the horizon, see unparalleled views of the Los Angeles skyline, a striking silhouette from a unique vantage point. On this incredible aerial adventure, hop into a helicopter and spot jaw-dropping sights before the colorful climax of your experience—sunset.</string>
+
+    <string name="private_tours_four_name">Ultimate Hollywood and Coastal Private Group Tour</string>
+    <string name="private_tours_four_address">Los Angeles</string>
+    <string name="private_tours_four_description">Walk along star-studded boulevards, gaze at legendary theaters, and listen to the tales and rumors of Hollywood past and present. This immersive excursions plunges you into Los Angeles\’ movie mecca before whisking you off to the colorful boardwalks and sandy beaches of the city\’s famous coastline.</string>
+
+    <string name="private_tours_five_name">Guided Luxury Sports Car Tour of Angeles National Forest</string>
+    <string name="private_tours_five_address">Angeles National Forest\nLos Angeles 91042</string>
+    <string name="private_tours_five_description">Buckle up for the ride of your life as you explore the LA area\'s most stunning scenery from the seat of a luxury sports car. Zoom through the winding roads and giant Sequoias of Angeles National Park in your choice of a supercharged Corvette Z06, futuristic BMW i8, or opulent BMW 6 convertible.</string>
+
+    <string name="theme_park_one_name">Disneyland® Resort</string>
+    <string name="theme_park_one_address">1313 Disneyland Drive\nAnaheim 92802</string>
+    <string name="theme_park_one_description">Magical kingdoms and storybook fairy tales come to life before your eyes at Disneyland® Resort Theme Parks. Discover why Walt Disney\'s enchanting Disneyland® Park is the happiest place on earth and see your favorite Disney and Pixar stories leap into reality at Disney California Adventure® Park.</string>
+
+    <string name="theme_park_two_name">Universal Studios Hollywood</string>
+    <string name="theme_park_two_address">100 Universal City Plaza\nUniversal City 91608</string>
+    <string name="theme_park_two_description">Get ready for the ultimate Hollywood movie experience! Go behind the scenes of the world-famous Studio Tour to explore real film sets where Hollywood movies are made. Plus, hold on tight for the Studio Tour\’s all-new grand finale, Fast and Furious – Supercharged.</string>
+
+</resources>
